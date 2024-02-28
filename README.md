@@ -1,4 +1,8 @@
-# Setup
+# Firebase Repo Cloner
+
+This script clones firebase data such as specific documents/collections in firestore and authentication data from one project to another project. 
+
+## Setup
 
 ```sh
 python -m venv .env
